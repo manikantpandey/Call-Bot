@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.pkl
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Conda
+*.conda
+*.yaml
+*.yml
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs & Temp files
+*.log
+*.tmp
+*.temp
+*.pid
+*.out
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build & Packaging
+dist/
+build/
+.eggs/
+*.whl
+
+# Audio / Generated Files
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Caches
+.cache/
+__pycache__/
+*.pyc
+*.mypy_cache/
+*.pytest_cache/
+*.tox/
+
+# Project-specific
+config.json
+secrets.json
+.env.local
+.env.*.local
