@@ -23,7 +23,7 @@ A real-time, bidirectional phone assistant that uses Twilio, Deepgram, Groq LLM,
 1. **Clone the repository:**
 
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/manikantpandey/Call-Bot.git
    cd Call\ Bot
    ```
 
